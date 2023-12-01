@@ -23,7 +23,18 @@ Note that some courses expect you to have worked through particular sections. In
 # Customizing your environment
 # Development workflows
 # Debugging/Profiling tools
+
+
 # Security and cryptography
+## Anonymization and De-anonymization
+## Entropy
+## (Cryptographic) Hash function: MDS, SHA
+## Symmetric cryptography
+## Asymmetric cryptography
+## Authentication
+## Case studies: Two-factor authentication, Full disk encryption, Private messaging, SSH
+
+
 # Open Topics (the future)
 # Data Processing
 ## NoSQL languages (cansandra, mongodB)
