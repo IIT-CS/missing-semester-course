@@ -32,6 +32,8 @@ Note that some courses expect you to have worked through particular sections. In
 ## Symmetric cryptography
 ## Asymmetric cryptography
 ## Authentication
+## Internet Security & Privacy
+## Web Security
 ## Case studies: Two-factor authentication, Full disk encryption, Private messaging, SSH
 
 
